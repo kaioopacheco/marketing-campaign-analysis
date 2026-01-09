@@ -19,6 +19,11 @@ Public marketing campaign dataset containing customer, transaction, campaign, an
 - Compared engagement and revenue related patterns across campaigns
 - Translated analytical results into clear marketing insights
 
+## Dashboard
+[![Tableau Dashboard Preview](images/dashboard_preview.png)](TABLEAU_DASHBOARD_LINK)
+
+The dashboard provides an overview of marketing campaign performance across countries and platforms. It highlights regional differences and platform level variations in campaign outcomes, allowing for comparison of engagement and performance patterns across markets and distribution channels. The dashboard complements the analysis by offering a clear visual perspective on how campaigns perform by country and platform.
+
 ## Key Insights
 - Campaign performance varies significantly across countries
 - Certain campaigns show stronger engagement patterns in specific regions
