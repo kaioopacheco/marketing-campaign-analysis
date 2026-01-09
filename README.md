@@ -20,7 +20,7 @@ Public marketing campaign dataset containing customer, transaction, campaign, an
 - Translated analytical results into clear marketing insights
 
 ## Dashboard
-[![Tableau Dashboard Preview](images/dashboard_preview.png)](TABLEAU_DASHBOARD_LINK)
+[![Tableau Dashboard Preview](images/dashboard_preview.png)](https://public.tableau.com/views/MarketingPerformanceAnalysis_17678625116620/MarketingPerformance?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 The dashboard provides an overview of marketing campaign performance across countries and platforms. It highlights regional differences and platform level variations in campaign outcomes, allowing for comparison of engagement and performance patterns across markets and distribution channels. The dashboard complements the analysis by offering a clear visual perspective on how campaigns perform by country and platform.
 
