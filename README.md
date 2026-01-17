@@ -3,6 +3,8 @@
 ## Overview
 This project analyzes marketing campaign performance using transactional and campaign level data. The objective is to evaluate how different marketing campaigns perform across regions and countries, supporting data driven decision making in marketing contexts.
 
+[Project Page (business oriented view)](https://www.kaiopacheco.com/marketingcampaignperformanceanalysis)
+
 ## Business Problem
 Marketing teams invest in multiple campaigns targeting different regions and markets, but campaign performance can vary significantly by country and audience. Understanding which campaigns generate stronger engagement and revenue related outcomes across regions is essential for optimizing marketing strategies and allocating resources more effectively. This analysis focuses on assessing campaign performance and identifying patterns that differentiate higher and lower performing campaigns at a regional level.
 
