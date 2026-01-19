@@ -1,7 +1,7 @@
 # Marketing Campaign Analysis
 
 ## Overview
-This project analyzes marketing campaign performance using transactional and campaign level data. The objective is to evaluate how different marketing campaigns perform across regions and countries, supporting data driven decision making in marketing contexts.
+This project analyzes marketing campaign performance using transactional and campaign level data. The objective is to evaluate how different marketing campaigns perform across regions and countries, supporting data driven discussions in marketing contexts.
 
 [Project Page (business oriented view)](https://www.kaiopacheco.com/marketingcampaignperformanceanalysis)
 
