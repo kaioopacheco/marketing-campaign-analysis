@@ -40,3 +40,4 @@ The dashboard provides an overview of marketing campaign performance across coun
 
 ## Tools and Technologies
 - **SQL**
+- **Data Visualization:** Tableau
