@@ -8,6 +8,13 @@ This project analyzes marketing campaign performance using transactional and cam
 ## Business Problem
 Marketing teams invest in multiple campaigns targeting different regions and markets, but campaign performance can vary significantly by country and audience. Understanding which campaigns generate stronger engagement and revenue related outcomes across regions is essential for optimizing marketing strategies and allocating resources more effectively. This analysis focuses on assessing campaign performance and identifying patterns that differentiate higher and lower performing campaigns at a regional level.
 
+## Key Metrics (KPIs)
+- **Purchases per Impression (primary KPI):** purchases / impressions  
+- **Total Purchases:** total number of purchases  
+- **Impressions:** total number of ad impressions  
+- **Campaign Level Performance:** purchases per impression by campaign  
+- **Platform Level Performance:** purchases per impression by platform
+
 ## Dataset
 Public marketing campaign dataset containing customer, transaction, campaign, and geographic information, enabling analysis of campaign performance across countries.
 
